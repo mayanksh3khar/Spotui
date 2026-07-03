@@ -18,8 +18,8 @@ It connects to your real Spotify account and mirrors the Spotify experience:
 spotui builds on the work of several open-source projects:
 
 - [Meld](https://github.com/) — Spotify metadata + YouTube streaming layer
-- **Neptune** — the original Jetpack Compose Spotify clone this app started from
-- **SpotiFLAC** — lossless (FLAC) track resolving
+- [Neptune](https://github.com/navneet851/spotify-clone-jetpack-compose) — the original Jetpack Compose Spotify clone this app started from
+- [SpotiFLAC](https://github.com/spotbye/SpotiFLAC) — lossless (FLAC) track resolving
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic) — crossfade / DJ-style audio filter processing
 
 ## Disclaimer
